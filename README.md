@@ -216,6 +216,23 @@ flowchart LR
 
 ---
 
+## 📊 Stats
+
+<div align="center">
+
+<a href="https://github.com/0xsri"><img src="./assets/stats.svg" width="54%" alt="Engineering stats" /></a>
+<a href="https://github.com/0xsri"><img src="./assets/languages.svg" width="43.6%" alt="Most used languages" /></a>
+
+<a href="https://github.com/0xsri"><img src="./assets/streak.svg" width="98%" alt="Contributions and streak" /></a>
+
+<a href="https://github.com/0xsri"><img src="./assets/trophies.svg" width="98%" alt="Trophies" /></a>
+
+<sub>Includes private repositories · generated from the GitHub API</sub>
+
+</div>
+
+---
+
 ## 🚀 Product Portfolio
 
 > Products I owned as CPO at Exaflair, from strategy and architecture through launch. Most are client and in-house codebases kept in private repositories, and I'm happy to walk through any of them.
