@@ -6,9 +6,9 @@
 
 <br/>
 
-<a href="https://github.com/0xsri"><img src="./assets/badge-product-engineering-leader-0f0c29.svg" alt="Product & Engineering Leader" /></a>
-<a href="https://www.exaflair.com"><img src="./assets/badge-ex-cpo-exaflair-technologies-f97316.svg" alt="Ex-CPO, Exaflair Technologies" /></a>
-<a href="https://www.google.com/maps/place/Hyderabad,+Telangana"><img src="./assets/badge-hyderabad-india-7c3aed.svg" alt="Location" /></a>
+<a href="https://github.com/0xsri"><img src="./assets/badge-role.svg" alt="Product & Engineering Leader" /></a>
+<a href="https://www.exaflair.com"><img src="./assets/badge-ex-cpo.svg" alt="Ex-CPO, Exaflair Technologies" /></a>
+<a href="https://www.google.com/maps/place/Hyderabad,+Telangana"><img src="./assets/badge-location.svg" alt="Location" /></a>
 
 </div>
 
@@ -227,7 +227,7 @@ flowchart LR
 
 <a href="https://github.com/0xsri"><img src="./assets/trophies.svg" width="98%" alt="Trophies" /></a>
 
-<sub>Includes private repositories · generated from the GitHub API</sub>
+<sub>Activity stats include private repositories and are generated from the GitHub API</sub>
 
 </div>
 
@@ -293,7 +293,7 @@ A **multi-service super-app** for rides, parcels and food/grocery delivery, buil
 
 **QOX Customer is live:**
 
-<a href="https://play.google.com/store/apps/details?id=com.qoxtransit.customer"><img src="./assets/badge-google-play-414141.svg" alt="Get it on Google Play" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.qoxtransit.customer"><img src="./assets/badge-google-play.svg" alt="Get it on Google Play" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -333,8 +333,8 @@ Full-stack **real-estate listings**: agents manage listings, users search, favou
 
 `Expo` `Convex` `Clerk` `Next.js` `shadcn/ui`
 
-<a href="https://apps.apple.com/us/app/propsearch-buy-rent-sell/id6761179070"><img src="./assets/badge-app-store-0d96f6.svg" alt="Download on the App Store" /></a>
-<a href="https://play.google.com/store/apps/details?id=propsearch.exaflair.com"><img src="./assets/badge-google-play-414141.svg" alt="Get it on Google Play" /></a>
+<a href="https://apps.apple.com/us/app/propsearch-buy-rent-sell/id6761179070"><img src="./assets/badge-app-store.svg" alt="Download on the App Store" /></a>
+<a href="https://play.google.com/store/apps/details?id=propsearch.exaflair.com"><img src="./assets/badge-google-play.svg" alt="Get it on Google Play" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -344,8 +344,8 @@ A **real-time mobile eCommerce** app with live data sync, plus a companion web s
 
 `Expo Router` `InstantDB` `Zustand` `React Hook Form` `Framer Motion`
 
-<a href="https://apps.apple.com/us/app/cartlyst/id6761368436"><img src="./assets/badge-app-store-0d96f6.svg" alt="Download on the App Store" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.exaflair.cartlyst"><img src="./assets/badge-google-play-414141.svg" alt="Get it on Google Play" /></a>
+<a href="https://apps.apple.com/us/app/cartlyst/id6761368436"><img src="./assets/badge-app-store.svg" alt="Download on the App Store" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.exaflair.cartlyst"><img src="./assets/badge-google-play.svg" alt="Get it on Google Play" /></a>
 
 </td>
 </tr>
