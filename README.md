@@ -18,13 +18,13 @@
 
 I'm the **Chief Product Officer at [Exaflair Technologies](https://www.exaflair.com)**, where I own the path from *idea → architecture → launch → scale* across our client and in-house portfolio. I sit where **product strategy meets deep engineering**. I define what we build and why, design the systems behind it, and stay hands-on in the code, from Solana programs and Solidity contracts to NestJS services and React Native apps.
 
-I've led **30+ products and codebases across 6 industries** (DeFi, mobility, travel, real estate, commerce and energy logistics), building the roadmaps, architecture, CI/CD and teams that ship them. Outside Exaflair, I contribute to on-chain trading infrastructure at **Mor Finance AI**.
+I've led **30+ products and codebases across 6 industries** (Web3, mobility, travel, real estate, commerce and energy logistics), building the roadmaps, architecture, CI/CD and teams that ship them.
 
 ```ts
 class SriPardhiv extends Engineer implements ProductLeader {
   readonly role     = "Chief Product Officer @ Exaflair Technologies";
   readonly focus    = ["Product Strategy", "System Architecture", "Engineering Leadership"];
-  readonly domains  = ["DeFi & Web3", "On-demand Mobility", "Marketplaces", "Enterprise SaaS", "Voice AI"];
+  readonly domains  = ["Web3 & Blockchain", "On-demand Mobility", "Marketplaces", "Enterprise SaaS", "Voice AI"];
   readonly stack    = { web: "Next.js", mobile: "React Native/Expo", api: "NestJS/Fastify",
                         data: "Postgres/Redis", chain: ["Solana/Anchor", "EVM/Solidity"] };
 
@@ -69,9 +69,9 @@ Build and lead **cross-functional teams of 10+ engineers**: engineering handoffs
 
 <div align="center">
 
-| 🚀 **30+** | 🧩 **6** | 👥 **10+** | ⛓️ **3** | 💻 **270+** |
+| 🚀 **30+** | 🧩 **6** | 👥 **10+** | ⛓️ **2** | 💻 **270+** |
 |:---:|:---:|:---:|:---:|:---:|
-| products & codebases led | industries | engineers led across teams | chains shipped on (Solana · Ethereum · Arbitrum) | hands-on commits across org repos |
+| products & codebases led | industries | engineers led across teams | chain ecosystems shipped on (Solana · EVM) | hands-on commits across org repos |
 
 </div>
 
@@ -156,7 +156,6 @@ flowchart LR
 <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
 <img src="https://img.shields.io/badge/Anchor-512DA8?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Arbitrum-2D374B?style=for-the-badge&logo=arbitrum&logoColor=white" />
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/Foundry-1E1E1E?style=for-the-badge&logoColor=white" />
@@ -228,16 +227,6 @@ An **on-chain freelancer marketplace** on Solana, with escrowed jobs, wallet aut
 A **fan-engagement & club token** platform: ERC-20 and club-level smart contracts, a fan portal, an admin dashboard and a backend with auto-deploy pipelines.
 
 `Hardhat` `OpenZeppelin (Upgradeable)` `Next.js` `Express` `DigitalOcean`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-#### 📈 Mor Finance AI — DeFi Infrastructure
-Contributor to **[`central-system`](https://github.com/Mor-Fin-AI)**, the orchestration layer that coordinates risk, execution, configuration and arbitrage across trading strategies, and to **`core-contracts`**, MorFin's unified execution, treasury, margin, debt and arbitrage contracts on **Arbitrum**.
-
-`Solidity` `TypeScript` `Arbitrum` `Arbitrage Engines`
 
 </td>
 </tr>
@@ -371,14 +360,14 @@ Ops automation: **EVM node storage alerts**, system monitoring and HR/attendance
 **🧭 Product**
 - Led **30+ products** from 0 → 1, covering discovery, specs, roadmap, launch and iteration
 - Built complete **multi-app ecosystems** (customer, partner, admin, web and API) for mobility, travel and pet care
-- Took products into **6 industries**: DeFi, mobility, travel, real estate, commerce and energy logistics
+- Took products into **6 industries**: Web3, mobility, travel, real estate, commerce and energy logistics
 
 </td>
 <td width="50%" valign="top">
 
 **⚙️ Engineering**
 - Architected **real-time platforms** with Socket.io + Redis, PostGIS spatial routing and live tracking
-- Designed and shipped **smart contracts on Solana, Ethereum & Arbitrum**: token protocols, airdrops, escrow and treasury
+- Designed and shipped **smart contracts on Solana & EVM**: token protocols, airdrops, on-chain reputation and marketplace escrow
 - Standardised **push-to-deploy CI/CD** and engineering handoffs across teams of **10+ engineers**
 
 </td>
@@ -393,7 +382,6 @@ Ops automation: **EVM node storage alerts**, system monitoring and HR/attendance
 
 <a href="https://www.exaflair.com"><img src="https://img.shields.io/badge/Website-exaflair.com-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://github.com/exaflair-technologies"><img src="https://img.shields.io/badge/GitHub-Exaflair_Technologies-181717?style=for-the-badge&logo=github&logoColor=white" alt="Exaflair GitHub" /></a>
-<a href="https://github.com/Mor-Fin-AI"><img src="https://img.shields.io/badge/GitHub-Mor_Finance_AI-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Mor-Fin GitHub" /></a>
 
 <br/><br/>
 
