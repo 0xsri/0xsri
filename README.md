@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6D28D9,100:F97316&height=220&section=header&text=U%20Sri%20Pardhiv&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20Web3%20%E2%80%A2%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="U Sri Pardhiv" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,45:4C1D95,75:7C3AED,100:F97316&height=260&section=header&text=U%20Sri%20Pardhiv&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Chief%20Product%20Officer%20%40%20Exaflair%20Technologies&descAlignY=57&descSize=22&animation=twinkling" width="100%" alt="U Sri Pardhiv, Chief Product Officer" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=Shipping+products+end-to-end+at+Exaflair+Technologies;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend+%E2%80%A2+Smart+Contracts;Solana+%26+EVM+%7C+Next.js+%7C+React+Native+%7C+NestJS;30%2B+products+across+6+industries" alt="Typing SVG" /></a>
+<a href="https://www.exaflair.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=50&lines=Product+%26+Engineering+Leader;Taking+products+from+0+%E2%86%92+1+%E2%86%92+scale;Product+strategy+%C3%97+deep+engineering;Web+%C2%B7+Mobile+%C2%B7+Backend+%C2%B7+Web3+%C2%B7+AI;30%2B+products+shipped+across+6+industries" alt="Product & Engineering Leader" /></a>
 
 <br/>
 
+<img src="https://img.shields.io/badge/Chief_Product_Officer-0F0C29?style=for-the-badge&logo=rocket&logoColor=F97316" alt="Chief Product Officer" />
 <a href="https://www.exaflair.com"><img src="https://img.shields.io/badge/Exaflair_Technologies-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Exaflair" /></a>
-<img src="https://img.shields.io/badge/Mohali,_Punjab-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://komarev.com/ghpvc/?username=0xsri&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/badge/Mohali,_India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
 </div>
 
@@ -16,25 +16,107 @@
 
 ## 👋 About Me
 
-I build products end-to-end: from architecture and smart contracts to backend services, admin dashboards and the mobile apps people use. At **[Exaflair Technologies](https://www.exaflair.com)** I set up and drive engineering across a portfolio of client and in-house products, and I also contribute to DeFi infrastructure at **Mor Finance AI**.
+I'm the **Chief Product Officer at [Exaflair Technologies](https://www.exaflair.com)**, where I own the path from *idea → architecture → launch → scale* across our client and in-house portfolio. I sit where **product strategy meets deep engineering**. I define what we build and why, design the systems behind it, and stay hands-on in the code, from Solana programs and Solidity contracts to NestJS services and React Native apps.
+
+I've led **30+ products and codebases across 6 industries** (DeFi, mobility, travel, real estate, commerce and energy logistics), building the roadmaps, architecture, CI/CD and teams that ship them. Outside Exaflair, I contribute to on-chain trading infrastructure at **Mor Finance AI**.
 
 ```ts
-const sriPardhiv = {
-  location:   "Mohali, Punjab 🇮🇳",
-  building:   ["Web3 platforms", "On-demand & marketplace apps", "Enterprise SaaS", "AI voice agents"],
-  chains:     ["Solana", "Ethereum", "Arbitrum"],
-  daily:      ["TypeScript", "Next.js", "React Native", "NestJS", "Supabase", "Solidity", "Anchor"],
-  mindset:    "Plan it, ship it, automate the deploy, hand it off clean.",
-};
+class SriPardhiv extends Engineer implements ProductLeader {
+  readonly role     = "Chief Product Officer @ Exaflair Technologies";
+  readonly focus    = ["Product Strategy", "System Architecture", "Engineering Leadership"];
+  readonly domains  = ["DeFi & Web3", "On-demand Mobility", "Marketplaces", "Enterprise SaaS", "Voice AI"];
+  readonly stack    = { web: "Next.js", mobile: "React Native/Expo", api: "NestJS/Fastify",
+                        data: "Postgres/Redis", chain: ["Solana/Anchor", "EVM/Solidity"] };
+
+  ship(idea: Idea): Product {
+    return idea
+      .validateWithUsers()
+      .architectForScale()
+      .buildWithTeam()
+      .automateDeploys()
+      .measure()
+      .iterate();          // repeat until product-market fit
+  }
+}
 ```
+
+---
+
+## 🧭 How I Lead
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🎯 Product Strategy
+Turn ambiguous problems into **clear roadmaps, specs and milestones**. Prioritise by user impact, cut scope ruthlessly, and run every launch in measurable phases.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🏗️ Systems Architecture
+Design **multi-surface platforms** (customer app, partner app, admin, API, contracts) on one data model, with real-time and on-chain layers built in from day one.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 👥 Engineering Leadership
+Build and lead **cross-functional teams of 10+ engineers**: engineering handoffs, push-to-deploy pipelines, CI quality gates and a strong ownership culture.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-| 🚀 **30+** | 🧩 **6** | 💻 **270+** | 🏢 **3** |
-|:---:|:---:|:---:|:---:|
-| products & codebases shipped | industries served | commits authored across org repos | GitHub orgs |
+| 🚀 **30+** | 🧩 **6** | 👥 **10+** | ⛓️ **3** | 💻 **270+** |
+|:---:|:---:|:---:|:---:|:---:|
+| products & codebases led | industries | engineers led across teams | chains shipped on (Solana · Ethereum · Arbitrum) | hands-on commits across org repos |
 
 </div>
+
+---
+
+## 🧬 The Platform Blueprint I Build On
+
+Most products I lead follow this battle-tested shape: one backend and data model serving every surface, with real-time, payments, observability and an optional on-chain layer.
+
+```mermaid
+flowchart LR
+    subgraph Surfaces["📱 Product Surfaces"]
+        A1["Customer App<br/>React Native · Expo"]
+        A2["Partner / Rider App<br/>React Native · Expo"]
+        A3["Web & Admin<br/>Next.js · TanStack"]
+    end
+
+    subgraph Core["⚙️ Core Platform"]
+        B1["API Layer<br/>NestJS · Fastify · Express"]
+        B2["Realtime<br/>Socket.io · Redis Adapter"]
+        B3["Auth & Payments<br/>Clerk · Supabase · Razorpay"]
+    end
+
+    subgraph Data["🗄️ Data"]
+        C1[("PostgreSQL · PostGIS<br/>Prisma")]
+        C2[("Redis<br/>cache · queues")]
+        C3[("S3 · IPFS<br/>media & metadata")]
+    end
+
+    subgraph Chain["⛓️ On-chain"]
+        D1["Solana Programs<br/>Anchor · SPL"]
+        D2["EVM Contracts<br/>Solidity · OpenZeppelin"]
+    end
+
+    subgraph Ops["🚀 Delivery & Observability"]
+        E1["GitHub Actions · Docker<br/>DigitalOcean · AWS · Vercel"]
+        E2["Sentry · PostHog · Crashlytics"]
+    end
+
+    Surfaces --> Core
+    Core --> Data
+    Core --> Chain
+    Ops -.-> Core
+    Ops -.-> Surfaces
+```
 
 ---
 
@@ -106,9 +188,9 @@ const sriPardhiv = {
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Product Portfolio
 
-> Most of these are client and product codebases kept in private repositories. Happy to walk through any of them.
+> Products I've owned as CPO, from strategy and architecture through launch. Most are client and in-house codebases kept in private repositories, and I'm happy to walk through any of them.
 
 ### ⛓️ Web3 & Blockchain
 
@@ -280,40 +362,28 @@ Ops automation: **EVM node storage alerts**, system monitoring and HR/attendance
 
 ---
 
-## 🏅 Achievements
+## 🏆 Leadership & Impact
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="96" alt="Pull Shark" title="Pull Shark" />
-&nbsp;&nbsp;
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="96" alt="YOLO" title="YOLO" />
+**🧭 Product**
+- Led **30+ products** from 0 → 1, covering discovery, specs, roadmap, launch and iteration
+- Built complete **multi-app ecosystems** (customer, partner, admin, web and API) for mobility, travel and pet care
+- Took products into **6 industries**: DeFi, mobility, travel, real estate, commerce and energy logistics
 
-**Pull Shark** · **YOLO**
+</td>
+<td width="50%" valign="top">
 
-<br/>
+**⚙️ Engineering**
+- Architected **real-time platforms** with Socket.io + Redis, PostGIS spatial routing and live tracking
+- Designed and shipped **smart contracts on Solana, Ethereum & Arbitrum**: token protocols, airdrops, escrow and treasury
+- Standardised **push-to-deploy CI/CD** and engineering handoffs across teams of **10+ engineers**
 
-- 🧱 Shipped **30+ codebases** across web, mobile, backend and smart contracts
-- 🌐 Products across **6 industries**: Web3/DeFi, mobility, travel, real estate, eCommerce and energy logistics
-- ⛓️ Smart contracts on **Solana, Ethereum and Arbitrum**
-- ⚙️ Push-to-deploy CI/CD pipelines with **GitHub Actions & DigitalOcean**
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=0xsri&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA" alt="GitHub Streak" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xsri/0xsri/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xsri/0xsri/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/0xsri/0xsri/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
