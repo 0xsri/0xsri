@@ -246,36 +246,36 @@ def trophies_card(d):
     ]
     tw, th, gap = 124, 160, 8
     w = len(tiles) * tw + (len(tiles) - 1) * gap
-    body = [f'''<defs>
-  <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#F0F6FC"/><stop offset=".55" stop-color="#C9D1D9"/><stop offset="1" stop-color="#8B949E"/>
-  </linearGradient>
-  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".6"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
-  </linearGradient>
+    body = ['''<defs>
+  <linearGradient id="tileBg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1C1240"/><stop offset="1" stop-color="#120B2E"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FDE68A"/><stop offset=".5" stop-color="#F59E0B"/><stop offset="1" stop-color="#B45309"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E9D5FF"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".75"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C3AED"/><stop offset="1" stop-color="#F97316"/></linearGradient>
 </defs>''']
     cup = "M-22 0H22V8C22 27 12 37 0 37C-12 37-22 27-22 8Z"
     for i, (title, line1, line2) in enumerate(tiles):
         x = i * (tw + gap)
         cx = x + tw / 2
+        cup_fill = "gold" if i % 2 == 0 else "violet"
         body.append(up(.1 + i * .12, f'''
-  <rect x="{x+.5}" y=".5" width="{tw-1}" height="{th-1}" rx="10" fill="{CARD}" stroke="{BORDER}"/>
-  <text x="{cx}" y="24" text-anchor="middle" font-size="12.5" font-weight="600" letter-spacing=".3" fill="{TEXT}">{escape(title)}</text>
+  <rect x="{x+.5}" y=".5" width="{tw-1}" height="{th-1}" rx="12" fill="url(#tileBg)" stroke="#3B2A6B"/>
+  <text x="{cx}" y="24" text-anchor="middle" font-size="13" font-weight="800" fill="#FFFFFF">{escape(title)}</text>
   <g transform="translate({cx} 40)">
     <clipPath id="cup{i}"><path d="{cup}"/></clipPath>
-    <path d="M-22 5C-36 5-36 25-17 27" stroke="url(#silver)" stroke-width="4" fill="none"/>
-    <path d="M22 5C36 5 36 25 17 27" stroke="url(#silver)" stroke-width="4" fill="none"/>
-    <path d="{cup}" fill="url(#silver)"/>
+    <path d="M-22 5C-36 5-36 25-17 27" stroke="url(#{cup_fill})" stroke-width="4" fill="none"/>
+    <path d="M22 5C36 5 36 25 17 27" stroke="url(#{cup_fill})" stroke-width="4" fill="none"/>
+    <path d="{cup}" fill="url(#{cup_fill})"/>
     <g clip-path="url(#cup{i})"><rect x="-70" y="-5" width="26" height="50" fill="url(#shine)" transform="skewX(-20)">
       <animate attributeName="x" values="-70;60;60" keyTimes="0;.35;1" dur="4s" begin="{1 + i*.3:.2f}s" repeatCount="indefinite"/>
     </rect></g>
-    <rect x="-4" y="37" width="8" height="9" fill="url(#silver)"/>
-    <rect x="-16" y="45" width="32" height="7" rx="2" fill="url(#silver)"/>
-    <text x="0" y="24" text-anchor="middle" font-size="17" fill="{GREEN_DARK}">★</text>
+    <rect x="-4" y="37" width="8" height="9" fill="url(#{cup_fill})"/>
+    <rect x="-16" y="45" width="32" height="7" rx="2" fill="url(#{cup_fill})"/>
+    <text x="0" y="24" text-anchor="middle" font-size="18" fill="#FFFFFF" opacity=".95">★</text>
   </g>
-  <text x="{cx}" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="{WHITE}">{escape(line1)}</text>
-  <text x="{cx}" y="136" text-anchor="middle" font-size="10.5" fill="{MUTED}">{escape(line2)}</text>
-  <rect x="{x+16}" y="146" width="{tw-32}" height="3" rx="1.5" fill="{GREEN}"/>'''))
+  <text x="{cx}" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="#E5E7EB">{escape(line1)}</text>
+  <text x="{cx}" y="136" text-anchor="middle" font-size="10.5" fill="#A1A1AA">{escape(line2)}</text>
+  <rect x="{x+16}" y="146" width="{tw-32}" height="4" rx="2" fill="url(#barGrad)"/>'''))
     return svg(w, th, "\n".join(body))
 
 
