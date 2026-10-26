@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,45:4C1D95,75:7C3AED,100:F97316&height=260&section=header&text=U%20Sri%20Pardhiv&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Chief%20Product%20Officer%20%40%20Exaflair%20Technologies&descAlignY=57&descSize=22&animation=twinkling" width="100%" alt="U Sri Pardhiv, Chief Product Officer" />
+<a href="https://github.com/0xsri"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,45:4C1D95,75:7C3AED,100:F97316&height=260&section=header&text=U%20Sri%20Pardhiv&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Product%20%26%20Engineering%20Leader%20%C2%B7%20Ex-CPO%2C%20Exaflair%20Technologies&descAlignY=57&descSize=22&animation=twinkling" width="100%" alt="U Sri Pardhiv, Product & Engineering Leader, Ex-CPO" /></a>
 
-<a href="https://www.exaflair.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=50&lines=Product+%26+Engineering+Leader;Taking+products+from+0+%E2%86%92+1+%E2%86%92+scale;Product+strategy+%C3%97+deep+engineering;Web+%C2%B7+Mobile+%C2%B7+Backend+%C2%B7+Web3+%C2%B7+AI;30%2B+products+shipped+across+6+industries" alt="Product & Engineering Leader" /></a>
+<a href="https://github.com/0xsri"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=50&lines=Product+%26+Engineering+Leader;Ex-Chief+Product+Officer+%40+Exaflair;Taking+products+from+0+%E2%86%92+1+%E2%86%92+scale;Product+strategy+%C3%97+deep+engineering;Web+%C2%B7+Mobile+%C2%B7+Backend+%C2%B7+Web3+%C2%B7+AI;30%2B+products+shipped+across+6+industries" alt="Product & Engineering Leader" /></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Chief_Product_Officer-0F0C29?style=for-the-badge&logo=rocket&logoColor=F97316" alt="Chief Product Officer" />
-<a href="https://www.exaflair.com"><img src="https://img.shields.io/badge/Exaflair_Technologies-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Exaflair" /></a>
-<img src="https://img.shields.io/badge/Mohali,_India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<a href="https://github.com/0xsri"><img src="https://img.shields.io/badge/Product_%26_Engineering_Leader-0F0C29?style=for-the-badge&logo=rocket&logoColor=F97316" alt="Product & Engineering Leader" /></a>
+<a href="https://www.exaflair.com"><img src="https://img.shields.io/badge/Ex--CPO-Exaflair_Technologies-F97316?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4C1D95" alt="Ex-CPO, Exaflair Technologies" /></a>
+<a href="https://www.google.com/maps/place/Mohali,+Punjab"><img src="https://img.shields.io/badge/Mohali,_India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
 
 </div>
 
@@ -16,13 +16,14 @@
 
 ## 👋 About Me
 
-I'm the **Chief Product Officer at [Exaflair Technologies](https://www.exaflair.com)**, where I own the path from *idea → architecture → launch → scale* across our client and in-house portfolio. I sit where **product strategy meets deep engineering**. I define what we build and why, design the systems behind it, and stay hands-on in the code, from Solana programs and Solidity contracts to NestJS services and React Native apps.
+I'm a **product & engineering leader** who takes products from *idea → architecture → launch → scale*. Most recently, as **Chief Product Officer at [Exaflair Technologies](https://www.exaflair.com)**, I owned product strategy and engineering execution across its client and in-house portfolio. I sit where **product strategy meets deep engineering**. I define what we build and why, design the systems behind it, and stay hands-on in the code, from Solana programs and Solidity contracts to NestJS services and React Native apps.
 
 I've led **30+ products and codebases across 6 industries** (Web3, mobility, travel, real estate, commerce and energy logistics), building the roadmaps, architecture, CI/CD and teams that ship them.
 
 ```ts
 class SriPardhiv extends Engineer implements ProductLeader {
-  readonly role     = "Chief Product Officer @ Exaflair Technologies";
+  readonly title    = "Product & Engineering Leader";
+  readonly previous = ["Chief Product Officer @ Exaflair Technologies"];
   readonly focus    = ["Product Strategy", "System Architecture", "Engineering Leadership"];
   readonly domains  = ["Web3 & Blockchain", "On-demand Mobility", "Marketplaces", "Enterprise SaaS", "Voice AI"];
   readonly stack    = { web: "Next.js", mobile: "React Native/Expo", api: "NestJS/Fastify",
@@ -126,62 +127,89 @@ flowchart LR
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,go,solidity,html,css,bash&theme=dark" alt="Languages" />
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="48" alt="ts" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="48" alt="js" /></a>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py&theme=dark" height="48" alt="py" /></a>
+<a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go&theme=dark" height="48" alt="go" /></a>
+<a href="https://soliditylang.org"><img src="https://skillicons.dev/icons?i=solidity&theme=dark" height="48" alt="solidity" /></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="48" alt="html" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="48" alt="css" /></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="48" alt="bash" /></a>
 
 **Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,materialui&theme=dark" alt="Frontend" />
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="react" /></a>
+<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="48" alt="nextjs" /></a>
+<a href="https://vite.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark" height="48" alt="vite" /></a>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="48" alt="tailwind" /></a>
+<a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux&theme=dark" height="48" alt="redux" /></a>
+<a href="https://mui.com"><img src="https://skillicons.dev/icons?i=materialui&theme=dark" height="48" alt="materialui" /></a>
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+<a href="https://reactnative.dev"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
+<a href="https://expo.dev"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" /></a>
+<a href="https://tanstack.com"><img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack" /></a>
+<a href="https://ui.shadcn.com"><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" /></a>
+<a href="https://motion.dev"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" /></a>
+<a href="https://zustand.docs.pmnd.rs"><img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" /></a>
+<a href="https://zod.dev"><img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" /></a>
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,flask,prisma,postgres,redis,supabase,firebase&theme=dark" alt="Backend" />
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="48" alt="nodejs" /></a>
+<a href="https://nestjs.com"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="48" alt="nestjs" /></a>
+<a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express&theme=dark" height="48" alt="express" /></a>
+<a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask&theme=dark" height="48" alt="flask" /></a>
+<a href="https://www.prisma.io"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" height="48" alt="prisma" /></a>
+<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="48" alt="postgres" /></a>
+<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis&theme=dark" height="48" alt="redis" /></a>
+<a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="48" alt="supabase" /></a>
+<a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="48" alt="firebase" /></a>
 
-<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/InstantDB-111111?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
-<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<a href="https://fastify.dev"><img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" /></a>
+<a href="https://socket.io"><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" /></a>
+<a href="https://www.convex.dev"><img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logoColor=white" alt="Convex" /></a>
+<a href="https://www.instantdb.com"><img src="https://img.shields.io/badge/InstantDB-111111?style=for-the-badge&logoColor=white" alt="InstantDB" /></a>
+<a href="https://clerk.com"><img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" /></a>
+<a href="https://postgis.net"><img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS" /></a>
 
 **Web3 & Blockchain**
 
-<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-<img src="https://img.shields.io/badge/Anchor-512DA8?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Foundry-1E1E1E?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Metaplex-000000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/IPFS_/_Pinata-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+<a href="https://solana.com"><img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" /></a>
+<a href="https://www.anchor-lang.com"><img src="https://img.shields.io/badge/Anchor-512DA8?style=for-the-badge&logoColor=white" alt="Anchor" /></a>
+<a href="https://ethereum.org"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" /></a>
+<a href="https://soliditylang.org"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" /></a>
+<a href="https://hardhat.org"><img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black" alt="Hardhat" /></a>
+<a href="https://getfoundry.sh"><img src="https://img.shields.io/badge/Foundry-1E1E1E?style=for-the-badge&logoColor=white" alt="Foundry" /></a>
+<a href="https://www.openzeppelin.com"><img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin" /></a>
+<a href="https://ethers.org"><img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logoColor=white" alt="Ethers.js" /></a>
+<a href="https://www.metaplex.com"><img src="https://img.shields.io/badge/Metaplex-000000?style=for-the-badge&logoColor=white" alt="Metaplex" /></a>
+<a href="https://pinata.cloud"><img src="https://img.shields.io/badge/IPFS_/_Pinata-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS / Pinata" /></a>
 
 **AI, Real-time & Integrations**
 
-<img src="https://img.shields.io/badge/LiveKit-1F1F1F?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/OneSignal-E54B4D?style=for-the-badge&logo=onesignal&logoColor=white" />
-<img src="https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white" />
+<a href="https://livekit.io"><img src="https://img.shields.io/badge/LiveKit-1F1F1F?style=for-the-badge&logoColor=white" alt="LiveKit" /></a>
+<a href="https://developers.google.com"><img src="https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google APIs" /></a>
+<a href="https://razorpay.com"><img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" /></a>
+<a href="https://developers.google.com/maps"><img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" /></a>
+<a href="https://onesignal.com"><img src="https://img.shields.io/badge/OneSignal-E54B4D?style=for-the-badge&logo=onesignal&logoColor=white" alt="OneSignal" /></a>
+<a href="https://posthog.com"><img src="https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white" alt="PostHog" /></a>
 
 **DevOps, Testing & Tooling**
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,sentry,jest,git,linux&theme=dark" alt="DevOps" />
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" alt="docker" /></a>
+<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="48" alt="githubactions" /></a>
+<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="48" alt="aws" /></a>
+<a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="48" alt="vercel" /></a>
+<a href="https://sentry.io"><img src="https://skillicons.dev/icons?i=sentry&theme=dark" height="48" alt="sentry" /></a>
+<a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest&theme=dark" height="48" alt="jest" /></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" alt="git" /></a>
+<a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="48" alt="linux" /></a>
 
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+<a href="https://www.digitalocean.com"><img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" /></a>
+<a href="https://turborepo.com"><img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" /></a>
+<a href="https://vitest.dev"><img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" /></a>
+<a href="https://playwright.dev"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white" alt="Playwright" /></a>
+<a href="https://storybook.js.org"><img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" /></a>
 
 </div>
 
@@ -189,7 +217,7 @@ flowchart LR
 
 ## 🚀 Product Portfolio
 
-> Products I've owned as CPO, from strategy and architecture through launch. Most are client and in-house codebases kept in private repositories, and I'm happy to walk through any of them.
+> Products I owned as CPO at Exaflair, from strategy and architecture through launch. Most are client and in-house codebases kept in private repositories, and I'm happy to walk through any of them.
 
 ### ⛓️ Web3 & Blockchain
 
@@ -380,13 +408,12 @@ Ops automation: **EVM node storage alerts**, system monitoring and HR/attendance
 
 <div align="center">
 
-<a href="https://www.exaflair.com"><img src="https://img.shields.io/badge/Website-exaflair.com-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://github.com/exaflair-technologies"><img src="https://img.shields.io/badge/GitHub-Exaflair_Technologies-181717?style=for-the-badge&logo=github&logoColor=white" alt="Exaflair GitHub" /></a>
+<a href="https://github.com/exaflair-technologies"><img src="https://img.shields.io/badge/Previously-Exaflair_Technologies-181717?style=for-the-badge&logo=github&logoColor=white" alt="Exaflair GitHub" /></a>
 
 <br/><br/>
 
-*Have a product to build? Let's talk.*
+*Building something ambitious in product or engineering? Let's talk.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:6D28D9,100:7C3AED&height=120&section=footer" width="100%" />
+<a href="https://github.com/0xsri"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:6D28D9,100:7C3AED&height=120&section=footer" width="100%" alt="" /></a>
 
 </div>
