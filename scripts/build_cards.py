@@ -7,15 +7,19 @@ activity is included. Re-run any time to refresh the numbers:
     python3 scripts/build_cards.py
 """
 import datetime
+import hashlib
 import json
 import math
 import random
+import re
 import subprocess
 from pathlib import Path
 from xml.sax.saxutils import escape
 
 USER = "0xsri"
-OUT = Path(__file__).resolve().parent.parent / "assets"
+ROOT = Path(__file__).resolve().parent.parent
+OUT = ROOT / "assets"
+README = ROOT / "README.md"
 
 # Figures that the API can't compute (counted from org git history / known facts)
 AUTHORED_COMMITS = "270+"
@@ -26,7 +30,7 @@ LIVE_APPS = "3"
 # Core languages card: share of focus across the stack
 CORE_LANGUAGES = [
     ("TypeScript", 34), ("Python", 25), ("JavaScript", 11),
-    ("Solidity", 10), ("Go", 10), ("C++", 10),
+    ("Solidity", 10), ("Go", 10), ("Rust", 10),
 ]
 
 FONT = "'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif"
@@ -45,7 +49,7 @@ GREEN_LEVELS = ["#0E4429", "#006D32", "#1F8C3B", "#2EA043"]
 
 LANG_COLORS = {
     "TypeScript": "#2EA043", "Python": "#A3BE8C", "JavaScript": "#E6EDF3",
-    "Solidity": "#8B949E", "Go": "#3E7B52", "C++": "#57606A",
+    "Solidity": "#8B949E", "Go": "#3E7B52", "Rust": "#57606A",
 }
 
 
@@ -315,6 +319,16 @@ def footer():
     return svg(w, h, body)
 
 
+def stamp_readme():
+    """Version every ./assets link by content hash so browsers never show a stale cached image."""
+    def stamp(m):
+        path = m.group(1)
+        digest = hashlib.sha256((ROOT / path).read_bytes()).hexdigest()[:8]
+        return f'src="./{path}?v={digest}"'
+    text = README.read_text(encoding="utf-8")
+    README.write_text(re.sub(r'src="\./(assets/[^"?]+)(?:\?v=[0-9a-f]+)?"', stamp, text), encoding="utf-8")
+
+
 def main():
     OUT.mkdir(exist_ok=True)
     d = fetch_data()
@@ -328,6 +342,7 @@ def main():
     }
     for name, content in files.items():
         (OUT / name).write_text(content, encoding="utf-8")
+    stamp_readme()
     print(json.dumps(d, indent=2))
     print("wrote", ", ".join(files))
 

@@ -1,14 +1,14 @@
 <div align="center">
 
-<a href="https://github.com/0xsri"><img src="./assets/header.svg" width="100%" alt="U Sri Pardhiv, Product & Engineering Leader, Ex-CPO" /></a>
+<a href="https://github.com/0xsri"><img src="./assets/header.svg?v=1596d198" width="100%" alt="U Sri Pardhiv, Product & Engineering Leader, Ex-CPO" /></a>
 
-<a href="https://github.com/0xsri"><img src="./assets/typing.svg" alt="Product & Engineering Leader" /></a>
+<a href="https://github.com/0xsri"><img src="./assets/typing.svg?v=19eaf8f3" alt="Product & Engineering Leader" /></a>
 
 <br/>
 
-<a href="https://github.com/0xsri"><img src="./assets/badge-role.svg" alt="Product & Engineering Leader" /></a>
-<a href="https://www.exaflair.com"><img src="./assets/badge-ex-cpo.svg" alt="Ex-CPO, Exaflair Technologies" /></a>
-<a href="https://www.google.com/maps/place/Hyderabad,+Telangana"><img src="./assets/badge-location.svg" alt="Location" /></a>
+<a href="https://github.com/0xsri"><img src="./assets/badge-role.svg?v=4fe91cfd" alt="Product & Engineering Leader" /></a>
+<a href="https://www.exaflair.com"><img src="./assets/badge-ex-cpo.svg?v=89380a6b" alt="Ex-CPO, Exaflair Technologies" /></a>
+<a href="https://www.google.com/maps/place/Hyderabad,+Telangana"><img src="./assets/badge-location.svg?v=bf39388e" alt="Location" /></a>
 
 </div>
 
@@ -127,90 +127,90 @@ flowchart LR
 
 **Languages**
 
-<a href="https://www.typescriptlang.org"><img src="./assets/icon-ts.svg" height="48" alt="ts" /></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./assets/icon-js.svg" height="48" alt="js" /></a>
-<a href="https://www.python.org"><img src="./assets/icon-py.svg" height="48" alt="py" /></a>
-<a href="https://go.dev"><img src="./assets/icon-go.svg" height="48" alt="go" /></a>
-<a href="https://isocpp.org"><img src="./assets/icon-cpp.svg" height="48" alt="cpp" /></a>
-<a href="https://soliditylang.org"><img src="./assets/icon-solidity.svg" height="48" alt="solidity" /></a>
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./assets/icon-html.svg" height="48" alt="html" /></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./assets/icon-css.svg" height="48" alt="css" /></a>
-<a href="https://www.gnu.org/software/bash/"><img src="./assets/icon-bash.svg" height="48" alt="bash" /></a>
+<a href="https://www.typescriptlang.org"><img src="./assets/icon-ts.svg?v=2e388381" height="48" alt="ts" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./assets/icon-js.svg?v=f9d920e5" height="48" alt="js" /></a>
+<a href="https://www.python.org"><img src="./assets/icon-py.svg?v=fd90575e" height="48" alt="py" /></a>
+<a href="https://go.dev"><img src="./assets/icon-go.svg?v=525c35f4" height="48" alt="go" /></a>
+<a href="https://isocpp.org"><img src="./assets/icon-cpp.svg?v=835dd280" height="48" alt="cpp" /></a>
+<a href="https://soliditylang.org"><img src="./assets/icon-solidity.svg?v=2b1580d8" height="48" alt="solidity" /></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./assets/icon-html.svg?v=2a45fc18" height="48" alt="html" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./assets/icon-css.svg?v=9500757b" height="48" alt="css" /></a>
+<a href="https://www.gnu.org/software/bash/"><img src="./assets/icon-bash.svg?v=97749410" height="48" alt="bash" /></a>
 
 **Frontend & Mobile**
 
-<a href="https://react.dev"><img src="./assets/icon-react.svg" height="48" alt="react" /></a>
-<a href="https://nextjs.org"><img src="./assets/icon-nextjs.svg" height="48" alt="nextjs" /></a>
-<a href="https://vite.dev"><img src="./assets/icon-vite.svg" height="48" alt="vite" /></a>
-<a href="https://tailwindcss.com"><img src="./assets/icon-tailwind.svg" height="48" alt="tailwind" /></a>
-<a href="https://redux.js.org"><img src="./assets/icon-redux.svg" height="48" alt="redux" /></a>
-<a href="https://mui.com"><img src="./assets/icon-materialui.svg" height="48" alt="materialui" /></a>
+<a href="https://react.dev"><img src="./assets/icon-react.svg?v=cbd9d56c" height="48" alt="react" /></a>
+<a href="https://nextjs.org"><img src="./assets/icon-nextjs.svg?v=ff688be4" height="48" alt="nextjs" /></a>
+<a href="https://vite.dev"><img src="./assets/icon-vite.svg?v=cad830d0" height="48" alt="vite" /></a>
+<a href="https://tailwindcss.com"><img src="./assets/icon-tailwind.svg?v=a91ba80b" height="48" alt="tailwind" /></a>
+<a href="https://redux.js.org"><img src="./assets/icon-redux.svg?v=afef8c70" height="48" alt="redux" /></a>
+<a href="https://mui.com"><img src="./assets/icon-materialui.svg?v=c37b81ac" height="48" alt="materialui" /></a>
 
-<a href="https://reactnative.dev"><img src="./assets/badge-react-native-20232a.svg" alt="React Native" /></a>
-<a href="https://expo.dev"><img src="./assets/badge-expo-000020.svg" alt="Expo" /></a>
-<a href="https://tanstack.com"><img src="./assets/badge-tanstack-ff4154.svg" alt="TanStack" /></a>
-<a href="https://ui.shadcn.com"><img src="./assets/badge-shadcn-ui-000000.svg" alt="shadcn/ui" /></a>
-<a href="https://motion.dev"><img src="./assets/badge-framer-motion-0055ff.svg" alt="Framer Motion" /></a>
-<a href="https://zustand.docs.pmnd.rs"><img src="./assets/badge-zustand-443e38.svg" alt="Zustand" /></a>
-<a href="https://zod.dev"><img src="./assets/badge-zod-3e67b1.svg" alt="Zod" /></a>
+<a href="https://reactnative.dev"><img src="./assets/badge-react-native-20232a.svg?v=c164510a" alt="React Native" /></a>
+<a href="https://expo.dev"><img src="./assets/badge-expo-000020.svg?v=63dd6e87" alt="Expo" /></a>
+<a href="https://tanstack.com"><img src="./assets/badge-tanstack-ff4154.svg?v=520d6aea" alt="TanStack" /></a>
+<a href="https://ui.shadcn.com"><img src="./assets/badge-shadcn-ui-000000.svg?v=2dd3d33f" alt="shadcn/ui" /></a>
+<a href="https://motion.dev"><img src="./assets/badge-framer-motion-0055ff.svg?v=d60a1d5b" alt="Framer Motion" /></a>
+<a href="https://zustand.docs.pmnd.rs"><img src="./assets/badge-zustand-443e38.svg?v=fbe43db4" alt="Zustand" /></a>
+<a href="https://zod.dev"><img src="./assets/badge-zod-3e67b1.svg?v=2e86677f" alt="Zod" /></a>
 
 **Backend & Data**
 
-<a href="https://nodejs.org"><img src="./assets/icon-nodejs.svg" height="48" alt="nodejs" /></a>
-<a href="https://nestjs.com"><img src="./assets/icon-nestjs.svg" height="48" alt="nestjs" /></a>
-<a href="https://expressjs.com"><img src="./assets/icon-express.svg" height="48" alt="express" /></a>
-<a href="https://flask.palletsprojects.com"><img src="./assets/icon-flask.svg" height="48" alt="flask" /></a>
-<a href="https://www.prisma.io"><img src="./assets/icon-prisma.svg" height="48" alt="prisma" /></a>
-<a href="https://www.postgresql.org"><img src="./assets/icon-postgres.svg" height="48" alt="postgres" /></a>
-<a href="https://redis.io"><img src="./assets/icon-redis.svg" height="48" alt="redis" /></a>
-<a href="https://supabase.com"><img src="./assets/icon-supabase.svg" height="48" alt="supabase" /></a>
-<a href="https://firebase.google.com"><img src="./assets/icon-firebase.svg" height="48" alt="firebase" /></a>
+<a href="https://nodejs.org"><img src="./assets/icon-nodejs.svg?v=eacf89e6" height="48" alt="nodejs" /></a>
+<a href="https://nestjs.com"><img src="./assets/icon-nestjs.svg?v=06a4d483" height="48" alt="nestjs" /></a>
+<a href="https://expressjs.com"><img src="./assets/icon-express.svg?v=77981311" height="48" alt="express" /></a>
+<a href="https://flask.palletsprojects.com"><img src="./assets/icon-flask.svg?v=92379fe7" height="48" alt="flask" /></a>
+<a href="https://www.prisma.io"><img src="./assets/icon-prisma.svg?v=70263395" height="48" alt="prisma" /></a>
+<a href="https://www.postgresql.org"><img src="./assets/icon-postgres.svg?v=c93c447b" height="48" alt="postgres" /></a>
+<a href="https://redis.io"><img src="./assets/icon-redis.svg?v=aed2bc13" height="48" alt="redis" /></a>
+<a href="https://supabase.com"><img src="./assets/icon-supabase.svg?v=175ae413" height="48" alt="supabase" /></a>
+<a href="https://firebase.google.com"><img src="./assets/icon-firebase.svg?v=7e70e33d" height="48" alt="firebase" /></a>
 
-<a href="https://fastify.dev"><img src="./assets/badge-fastify-000000.svg" alt="Fastify" /></a>
-<a href="https://socket.io"><img src="./assets/badge-socket-io-010101.svg" alt="Socket.io" /></a>
-<a href="https://www.convex.dev"><img src="./assets/badge-convex-ee342f.svg" alt="Convex" /></a>
-<a href="https://www.instantdb.com"><img src="./assets/badge-instantdb-111111.svg" alt="InstantDB" /></a>
-<a href="https://clerk.com"><img src="./assets/badge-clerk-6c47ff.svg" alt="Clerk" /></a>
-<a href="https://postgis.net"><img src="./assets/badge-postgis-336791.svg" alt="PostGIS" /></a>
+<a href="https://fastify.dev"><img src="./assets/badge-fastify-000000.svg?v=b9c5adea" alt="Fastify" /></a>
+<a href="https://socket.io"><img src="./assets/badge-socket-io-010101.svg?v=c3fbfc79" alt="Socket.io" /></a>
+<a href="https://www.convex.dev"><img src="./assets/badge-convex-ee342f.svg?v=c7df6a09" alt="Convex" /></a>
+<a href="https://www.instantdb.com"><img src="./assets/badge-instantdb-111111.svg?v=a75d7a8b" alt="InstantDB" /></a>
+<a href="https://clerk.com"><img src="./assets/badge-clerk-6c47ff.svg?v=bca4279c" alt="Clerk" /></a>
+<a href="https://postgis.net"><img src="./assets/badge-postgis-336791.svg?v=f6933401" alt="PostGIS" /></a>
 
 **Web3 & Blockchain**
 
-<a href="https://solana.com"><img src="./assets/badge-solana-9945ff.svg" alt="Solana" /></a>
-<a href="https://www.anchor-lang.com"><img src="./assets/badge-anchor-512da8.svg" alt="Anchor" /></a>
-<a href="https://ethereum.org"><img src="./assets/badge-ethereum-3c3c3d.svg" alt="Ethereum" /></a>
-<a href="https://soliditylang.org"><img src="./assets/badge-solidity-363636.svg" alt="Solidity" /></a>
-<a href="https://hardhat.org"><img src="./assets/badge-hardhat-fff100.svg" alt="Hardhat" /></a>
-<a href="https://getfoundry.sh"><img src="./assets/badge-foundry-1e1e1e.svg" alt="Foundry" /></a>
-<a href="https://www.openzeppelin.com"><img src="./assets/badge-openzeppelin-4e5ee4.svg" alt="OpenZeppelin" /></a>
-<a href="https://ethers.org"><img src="./assets/badge-ethers-js-2535a0.svg" alt="Ethers.js" /></a>
-<a href="https://www.metaplex.com"><img src="./assets/badge-metaplex-000000.svg" alt="Metaplex" /></a>
-<a href="https://pinata.cloud"><img src="./assets/badge-ipfs-pinata-65c2cb.svg" alt="IPFS / Pinata" /></a>
+<a href="https://solana.com"><img src="./assets/badge-solana-9945ff.svg?v=aa74e639" alt="Solana" /></a>
+<a href="https://www.anchor-lang.com"><img src="./assets/badge-anchor-512da8.svg?v=2dc42760" alt="Anchor" /></a>
+<a href="https://ethereum.org"><img src="./assets/badge-ethereum-3c3c3d.svg?v=05f8a6ab" alt="Ethereum" /></a>
+<a href="https://soliditylang.org"><img src="./assets/badge-solidity-363636.svg?v=eb316e52" alt="Solidity" /></a>
+<a href="https://hardhat.org"><img src="./assets/badge-hardhat-fff100.svg?v=257331cf" alt="Hardhat" /></a>
+<a href="https://getfoundry.sh"><img src="./assets/badge-foundry-1e1e1e.svg?v=791ca69c" alt="Foundry" /></a>
+<a href="https://www.openzeppelin.com"><img src="./assets/badge-openzeppelin-4e5ee4.svg?v=79572c13" alt="OpenZeppelin" /></a>
+<a href="https://ethers.org"><img src="./assets/badge-ethers-js-2535a0.svg?v=8d92cf13" alt="Ethers.js" /></a>
+<a href="https://www.metaplex.com"><img src="./assets/badge-metaplex-000000.svg?v=41ac0256" alt="Metaplex" /></a>
+<a href="https://pinata.cloud"><img src="./assets/badge-ipfs-pinata-65c2cb.svg?v=c1981429" alt="IPFS / Pinata" /></a>
 
 **AI, Real-time & Integrations**
 
-<a href="https://livekit.io"><img src="./assets/badge-livekit-1f1f1f.svg" alt="LiveKit" /></a>
-<a href="https://developers.google.com"><img src="./assets/badge-google-apis-4285f4.svg" alt="Google APIs" /></a>
-<a href="https://razorpay.com"><img src="./assets/badge-razorpay-0c2451.svg" alt="Razorpay" /></a>
-<a href="https://developers.google.com/maps"><img src="./assets/badge-google-maps-4285f4.svg" alt="Google Maps" /></a>
-<a href="https://onesignal.com"><img src="./assets/badge-onesignal-e54b4d.svg" alt="OneSignal" /></a>
-<a href="https://posthog.com"><img src="./assets/badge-posthog-1d4aff.svg" alt="PostHog" /></a>
+<a href="https://livekit.io"><img src="./assets/badge-livekit-1f1f1f.svg?v=a3768e30" alt="LiveKit" /></a>
+<a href="https://developers.google.com"><img src="./assets/badge-google-apis-4285f4.svg?v=bfeb135f" alt="Google APIs" /></a>
+<a href="https://razorpay.com"><img src="./assets/badge-razorpay-0c2451.svg?v=fc14acd7" alt="Razorpay" /></a>
+<a href="https://developers.google.com/maps"><img src="./assets/badge-google-maps-4285f4.svg?v=dc6f2bb4" alt="Google Maps" /></a>
+<a href="https://onesignal.com"><img src="./assets/badge-onesignal-e54b4d.svg?v=e894a153" alt="OneSignal" /></a>
+<a href="https://posthog.com"><img src="./assets/badge-posthog-1d4aff.svg?v=bf2cb908" alt="PostHog" /></a>
 
 **DevOps, Testing & Tooling**
 
-<a href="https://www.docker.com"><img src="./assets/icon-docker.svg" height="48" alt="docker" /></a>
-<a href="https://github.com/features/actions"><img src="./assets/icon-githubactions.svg" height="48" alt="githubactions" /></a>
-<a href="https://aws.amazon.com"><img src="./assets/icon-aws.svg" height="48" alt="aws" /></a>
-<a href="https://vercel.com"><img src="./assets/icon-vercel.svg" height="48" alt="vercel" /></a>
-<a href="https://sentry.io"><img src="./assets/icon-sentry.svg" height="48" alt="sentry" /></a>
-<a href="https://jestjs.io"><img src="./assets/icon-jest.svg" height="48" alt="jest" /></a>
-<a href="https://git-scm.com"><img src="./assets/icon-git.svg" height="48" alt="git" /></a>
-<a href="https://www.kernel.org"><img src="./assets/icon-linux.svg" height="48" alt="linux" /></a>
+<a href="https://www.docker.com"><img src="./assets/icon-docker.svg?v=c6463a69" height="48" alt="docker" /></a>
+<a href="https://github.com/features/actions"><img src="./assets/icon-githubactions.svg?v=fc56c02b" height="48" alt="githubactions" /></a>
+<a href="https://aws.amazon.com"><img src="./assets/icon-aws.svg?v=efc79aeb" height="48" alt="aws" /></a>
+<a href="https://vercel.com"><img src="./assets/icon-vercel.svg?v=941c9de4" height="48" alt="vercel" /></a>
+<a href="https://sentry.io"><img src="./assets/icon-sentry.svg?v=9e6ab282" height="48" alt="sentry" /></a>
+<a href="https://jestjs.io"><img src="./assets/icon-jest.svg?v=a61096cc" height="48" alt="jest" /></a>
+<a href="https://git-scm.com"><img src="./assets/icon-git.svg?v=6b5807a6" height="48" alt="git" /></a>
+<a href="https://www.kernel.org"><img src="./assets/icon-linux.svg?v=f13bcb45" height="48" alt="linux" /></a>
 
-<a href="https://www.digitalocean.com"><img src="./assets/badge-digitalocean-0080ff.svg" alt="DigitalOcean" /></a>
-<a href="https://turborepo.com"><img src="./assets/badge-turborepo-ef4444.svg" alt="Turborepo" /></a>
-<a href="https://vitest.dev"><img src="./assets/badge-vitest-6e9f18.svg" alt="Vitest" /></a>
-<a href="https://playwright.dev"><img src="./assets/badge-playwright-2ead33.svg" alt="Playwright" /></a>
-<a href="https://storybook.js.org"><img src="./assets/badge-storybook-ff4785.svg" alt="Storybook" /></a>
+<a href="https://www.digitalocean.com"><img src="./assets/badge-digitalocean-0080ff.svg?v=c57ac630" alt="DigitalOcean" /></a>
+<a href="https://turborepo.com"><img src="./assets/badge-turborepo-ef4444.svg?v=2e2a4cb4" alt="Turborepo" /></a>
+<a href="https://vitest.dev"><img src="./assets/badge-vitest-6e9f18.svg?v=d048e281" alt="Vitest" /></a>
+<a href="https://playwright.dev"><img src="./assets/badge-playwright-2ead33.svg?v=06b40be9" alt="Playwright" /></a>
+<a href="https://storybook.js.org"><img src="./assets/badge-storybook-ff4785.svg?v=efa01aff" alt="Storybook" /></a>
 
 </div>
 
@@ -220,12 +220,12 @@ flowchart LR
 
 <div align="center">
 
-<a href="https://github.com/0xsri"><img src="./assets/stats.svg" width="54%" alt="Engineering stats" /></a>
-<a href="https://github.com/0xsri"><img src="./assets/languages.svg" width="43.6%" alt="Most used languages" /></a>
+<a href="https://github.com/0xsri"><img src="./assets/stats.svg?v=b107530a" width="54%" alt="Engineering stats" /></a>
+<a href="https://github.com/0xsri"><img src="./assets/languages.svg?v=f008cb1b" width="43.6%" alt="Most used languages" /></a>
 
-<a href="https://github.com/0xsri"><img src="./assets/streak.svg" width="98%" alt="Contributions and streak" /></a>
+<a href="https://github.com/0xsri"><img src="./assets/streak.svg?v=db5e981d" width="98%" alt="Contributions and streak" /></a>
 
-<a href="https://github.com/0xsri"><img src="./assets/trophies.svg" width="98%" alt="Trophies" /></a>
+<a href="https://github.com/0xsri"><img src="./assets/trophies.svg?v=a15ff103" width="98%" alt="Trophies" /></a>
 
 <sub>Activity stats include private repositories and are generated from the GitHub API</sub>
 
@@ -293,7 +293,7 @@ A **multi-service super-app** for rides, parcels and food/grocery delivery, buil
 
 **QOX Customer is live:**
 
-<a href="https://play.google.com/store/apps/details?id=com.qoxtransit.customer"><img src="./assets/badge-google-play.svg" alt="Get it on Google Play" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.qoxtransit.customer"><img src="./assets/store-google-play.png?v=446c2320" height="40" alt="Get it on Google Play" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -333,8 +333,8 @@ Full-stack **real-estate listings**: agents manage listings, users search, favou
 
 `Expo` `Convex` `Clerk` `Next.js` `shadcn/ui`
 
-<a href="https://apps.apple.com/us/app/propsearch-buy-rent-sell/id6761179070"><img src="./assets/badge-app-store.svg" alt="Download on the App Store" /></a>
-<a href="https://play.google.com/store/apps/details?id=propsearch.exaflair.com"><img src="./assets/badge-google-play.svg" alt="Get it on Google Play" /></a>
+<a href="https://apps.apple.com/us/app/propsearch-buy-rent-sell/id6761179070"><img src="./assets/store-app-store.svg?v=a26fc5b3" height="40" alt="Download on the App Store" /></a>
+<a href="https://play.google.com/store/apps/details?id=propsearch.exaflair.com"><img src="./assets/store-google-play.png?v=446c2320" height="40" alt="Get it on Google Play" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -344,8 +344,8 @@ A **real-time mobile eCommerce** app with live data sync, plus a companion web s
 
 `Expo Router` `InstantDB` `Zustand` `React Hook Form` `Framer Motion`
 
-<a href="https://apps.apple.com/us/app/cartlyst/id6761368436"><img src="./assets/badge-app-store.svg" alt="Download on the App Store" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.exaflair.cartlyst"><img src="./assets/badge-google-play.svg" alt="Get it on Google Play" /></a>
+<a href="https://apps.apple.com/us/app/cartlyst/id6761368436"><img src="./assets/store-app-store.svg?v=a26fc5b3" height="40" alt="Download on the App Store" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.exaflair.cartlyst"><img src="./assets/store-google-play.png?v=446c2320" height="40" alt="Get it on Google Play" /></a>
 
 </td>
 </tr>
@@ -436,12 +436,12 @@ Ops automation: **EVM node storage alerts**, system monitoring and HR/attendance
 
 <div align="center">
 
-<a href="https://github.com/exaflair-technologies"><img src="./assets/badge-previously-exaflair-technologies-181717.svg" alt="Exaflair GitHub" /></a>
+<a href="https://github.com/exaflair-technologies"><img src="./assets/badge-previously-exaflair-technologies-181717.svg?v=4ced65f4" alt="Exaflair GitHub" /></a>
 
 <br/><br/>
 
 *Building something ambitious in product or engineering? Let's talk.*
 
-<a href="https://github.com/0xsri"><img src="./assets/footer.svg" width="100%" alt="" /></a>
+<a href="https://github.com/0xsri"><img src="./assets/footer.svg?v=36bd9b07" width="100%" alt="" /></a>
 
 </div>
